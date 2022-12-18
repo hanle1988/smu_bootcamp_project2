@@ -1,0 +1,703 @@
+job_title,Industry,avg_salary,job_state,python_yn,R_yn,aws,excel
+Data Scientist,Accounting,113.5, CA,1,0,0,0
+Data Scientist,Advertising & Marketing,161.5, NJ,1,0,1,1
+Data Scientist,Advertising & Marketing,161.5, NJ,1,0,1,1
+Data Scientist,Advertising & Marketing,164.5, CA,0,0,0,0
+Data Scientist,Advertising & Marketing,164.5, CA,0,0,0,0
+Data Analyst,Advertising & Marketing,56.5, PA,0,0,0,1
+Data Scientist,Advertising & Marketing,56.5, MA,1,0,0,0
+Data Analyst,Advertising & Marketing,65.5, WA,1,0,1,1
+Data Engineer,Advertising & Marketing,71.5, FL,1,0,1,1
+Data Engineer,Advertising & Marketing,71.5, FL,1,0,1,1
+Data Analyst,Advertising & Marketing,87.5, MI,0,0,0,1
+Data Analyst,Advertising & Marketing,87.5, MI,0,0,0,1
+Data Scientist,Advertising & Marketing,83.5, TX,1,0,0,1
+Data Scientist,Advertising & Marketing,87.5, IL,0,0,0,0
+Data Scientist,Advertising & Marketing,91, FL,1,0,0,1
+Data Scientist,Advertising & Marketing,91, FL,1,0,0,1
+Data Scientist,Advertising & Marketing,96.5, OR,1,0,0,0
+Data Scientist,Advertising & Marketing,100, OH,1,0,0,1
+Data Scientist,Advertising & Marketing,104.5, NY,1,0,1,1
+Data Scientist,Advertising & Marketing,104.5, NY,1,0,1,1
+Data Engineer,Advertising & Marketing,114, CA,1,0,0,0
+Data Engineer,Advertising & Marketing,114, CA,1,0,0,0
+Data Scientist,Advertising & Marketing,110, TX,0,0,0,0
+Data Scientist,Advertising & Marketing,114.5, NY,1,0,0,1
+Data Scientist,Advertising & Marketing,114, NJ,1,0,1,1
+Data Engineer,Advertising & Marketing,134, NC,0,0,1,0
+Data Scientist,Aerospace & Defense,130, MD,1,0,0,1
+Data Scientist,Aerospace & Defense,173, CA,1,0,0,0
+Data Scientist,Aerospace & Defense,173, CA,1,0,0,0
+Data Scientist,Aerospace & Defense,68, AL,1,0,0,1
+Data Analyst,Aerospace & Defense,59, AL,1,0,0,1
+Data Analyst,Aerospace & Defense,59, AL,1,0,0,1
+Data Analyst,Aerospace & Defense,62.5, AL,0,0,0,1
+Data Analyst,Aerospace & Defense,62.5, AL,0,0,0,1
+Data Scientist,Aerospace & Defense,72, NM,1,0,0,1
+Data Scientist,Aerospace & Defense,86.5, OH,0,0,0,0
+Machine Learning Engineer,Aerospace & Defense,87, VA,1,0,0,0
+Machine Learning Engineer,Aerospace & Defense,87, VA,1,0,0,0
+Data Scientist,Aerospace & Defense,89, VA,1,0,0,1
+Data Scientist,Aerospace & Defense,96, TN,1,0,0,0
+Machine Learning Engineer,Aerospace & Defense,100.5, CO,1,0,1,1
+Data Engineer,Aerospace & Defense,105.5, VA,1,0,0,0
+Data Scientist,Aerospace & Defense,99, MD,1,0,0,0
+Data Scientist,Aerospace & Defense,101, VA,1,0,0,0
+Data Scientist,Aerospace & Defense,101.5, VA,1,0,1,0
+Data Scientist,Aerospace & Defense,109.5, CA,0,0,0,1
+Data Scientist,Aerospace & Defense,107, VA,1,0,0,1
+Data Scientist,Aerospace & Defense,109.5, CA,0,0,0,1
+Data Scientist,Aerospace & Defense,110, MA,1,0,0,1
+Data Scientist,Aerospace & Defense,110, VA,1,0,0,1
+Data Engineer,Aerospace & Defense,118.5, VA,1,0,0,0
+Data Scientist,Architectural & Engineering Services,39.5, AL,0,0,0,0
+Data Scientist,Architectural & Engineering Services,51, CA,0,0,0,1
+Data Scientist,Architectural & Engineering Services,51, CA,0,0,0,1
+Data Scientist,Architectural & Engineering Services,60.5, SC,0,0,0,0
+Data Scientist,Auctions & Galleries,128, NY,1,0,0,0
+Data Analyst,Banks & Credit Unions,49, PA,1,0,0,0
+Data Analyst,Banks & Credit Unions,49, PA,1,0,0,0
+Data Analyst,Banks & Credit Unions,58, NJ,0,0,1,0
+Data Analyst,Banks & Credit Unions,60, WI,0,0,1,1
+Data Scientist,Banks & Credit Unions,62.5, MA,1,0,0,1
+Data Analyst,Banks & Credit Unions,60, WI,0,0,1,1
+Data Scientist,Banks & Credit Unions,62.5, MA,1,0,0,1
+Data Scientist,Banks & Credit Unions,73.5, MD,0,0,0,1
+Data Scientist,Banks & Credit Unions,73.5, MD,0,0,0,1
+Data Scientist,Banks & Credit Unions,99.5, OR,1,0,1,1
+Data Scientist,Banks & Credit Unions,99.5, OR,1,0,1,1
+Data Scientist,Banks & Credit Unions,100.5, MA,0,0,0,1
+Data Analyst,Beauty & Personal Accessories Stores,85.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,145, MA,1,0,0,1
+Machine Learning Engineer,Biotech & Pharmaceuticals,133, IL,1,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,145, MA,1,0,0,1
+Machine Learning Engineer,Biotech & Pharmaceuticals,133, IL,1,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,137, NY,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,140, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,137, NY,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,133.5, CO,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,140, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,137, NY,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,151.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,151.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,140, MD,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,140, MD,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,140.5, UT,1,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,140.5, UT,1,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,140.5, UT,1,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,154.5, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,154.5, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,154.5, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,143.5, CA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,168, CA,0,0,0,1
+Data Engineer,Biotech & Pharmaceuticals,154.5, MA,0,0,1,1
+Data Engineer,Biotech & Pharmaceuticals,154.5, MA,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,147.5, MD,1,0,0,1
+Data Engineer,Biotech & Pharmaceuticals,154.5, MA,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,147.5, CA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,174, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,161.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,161.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,167.5, NY,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,167.5, NY,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,163, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,169, CA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,169, CA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,172, MA,0,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,62, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,62, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,70.5, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,70.5, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,70.5, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,70, NY,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,70, NY,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,70, NY,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,80.5, MD,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,73, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,73, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,73, CA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,81, MD,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,80, GA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,80, GA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,80, GA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,76.5, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,76.5, MA,0,0,0,1
+Data Analyst,Biotech & Pharmaceuticals,72.5, PA,0,0,0,1
+Data Analyst,Biotech & Pharmaceuticals,72.5, PA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,75.5, NM,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,75.5, NM,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,87.5, MA,0,0,1,0
+Data Engineer,Biotech & Pharmaceuticals,68.5, AZ,1,0,0,0
+Data Engineer,Biotech & Pharmaceuticals,68.5, AZ,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,84.5, MA,0,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,84.5, MA,0,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,87.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,92, CA,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,91.5, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,91.5, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,92, MD,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,90.5, MA,0,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,90.5, MA,0,0,1,0
+Data Scientist,Biotech & Pharmaceuticals,86.5, MA,1,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,84, CT,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,86.5, MA,1,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,84, CT,0,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,95, MD,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,95, MD,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,102, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,96.5, MA,0,0,0,1
+Data Engineer,Biotech & Pharmaceuticals,102.5, MA,1,0,1,1
+Data Scientist,Biotech & Pharmaceuticals,100, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,111.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,111.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,111.5, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,101, DC,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,106.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,106.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,113.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,113.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,120.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,120.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,112.5, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,112.5, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,114.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,114.5, MA,1,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,111.5, PA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,114.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,111.5, PA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,118, MA,1,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,125, CA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,134.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,134.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,134.5, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,121, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,121, MA,0,0,0,0
+Data Scientist,Biotech & Pharmaceuticals,140, MA,0,0,0,1
+Data Scientist,Biotech & Pharmaceuticals,140, MA,0,0,0,1
+Data Analyst,Brokerage Services,173, NJ,1,0,0,1
+Data Scientist,Brokerage Services,85, TX,1,0,0,1
+Data Scientist,Colleges & Universities,121, CA,1,0,0,0
+Data Analyst,Colleges & Universities,61.5, VA,1,0,0,1
+Data Analyst,Colleges & Universities,61.5, VA,1,0,0,1
+Data Scientist,Colleges & Universities,73.5, PA,0,0,0,1
+Data Scientist,Colleges & Universities,73.5, PA,0,0,0,1
+Data Scientist,Colleges & Universities,73.5, PA,0,0,0,1
+Machine Learning Engineer,Colleges & Universities,107.5, PA,1,0,0,0
+Data Scientist,Colleges & Universities,124, PA,1,0,0,1
+Machine Learning Engineer,Colleges & Universities,120, PA,1,0,0,0
+Machine Learning Engineer,Colleges & Universities,124, PA,0,0,0,0
+Machine Learning Engineer,Colleges & Universities,120, PA,1,0,0,0
+Machine Learning Engineer,Colleges & Universities,124, PA,0,0,0,0
+Machine Learning Engineer,Colleges & Universities,124, PA,0,0,0,0
+Machine Learning Engineer,Colleges & Universities,124, PA,0,0,0,0
+Data Scientist,Colleges & Universities,105.5, TX,1,0,1,0
+Data Scientist,Colleges & Universities,105.5, TX,1,0,1,0
+Data Engineer,Computer Hardware & Software,149.5, TX,0,0,1,0
+Data Engineer,Computer Hardware & Software,149.5, TX,0,0,1,0
+Data Scientist,Computer Hardware & Software,139.5, MA,1,0,0,0
+Data Scientist,Computer Hardware & Software,139.5, MA,1,0,0,0
+Data Scientist,Computer Hardware & Software,139.5, MA,1,0,0,0
+Data Scientist,Computer Hardware & Software,150.5, CA,1,0,0,0
+Data Scientist,Computer Hardware & Software,150.5, CA,1,0,0,0
+Data Engineer,Computer Hardware & Software,162.5, CA,1,0,0,1
+Data Engineer,Computer Hardware & Software,162, CA,1,0,0,1
+Data Engineer,Computer Hardware & Software,162, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,153, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,153, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,157, CA,0,0,1,0
+Data Engineer,Computer Hardware & Software,177, CA,1,0,1,0
+Data Scientist,Computer Hardware & Software,168, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,171.5, CA,1,0,1,0
+Data Scientist,Computer Hardware & Software,171.5, CA,1,0,1,0
+Machine Learning Engineer,Computer Hardware & Software,232.5, CA,1,0,0,0
+Data Analyst,Computer Hardware & Software,49, ID,1,1,0,1
+Data Analyst,Computer Hardware & Software,56.5, NJ,0,0,0,1
+Data Analyst,Computer Hardware & Software,61, IL,1,0,0,0
+Data Analyst,Computer Hardware & Software,61, IL,1,0,0,0
+Data Analyst,Computer Hardware & Software,61.5, CA,0,0,0,1
+Data Analyst,Computer Hardware & Software,61.5, CA,0,0,0,1
+Data Analyst,Computer Hardware & Software,61.5, CA,0,0,0,1
+Data Engineer,Computer Hardware & Software,70.5, LA,0,0,0,1
+Data Engineer,Computer Hardware & Software,70.5, LA,0,0,0,1
+Data Engineer,Computer Hardware & Software,73, OR,0,0,0,0
+Data Scientist,Computer Hardware & Software,68.5, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,68.5, CA,1,0,0,1
+Data Analyst,Computer Hardware & Software,77.5, IL,0,0,0,1
+Data Scientist,Computer Hardware & Software,79.5, GA,1,0,0,1
+Data Scientist,Computer Hardware & Software,93.5, MD,0,0,0,1
+Data Scientist,Computer Hardware & Software,93.5, MD,0,0,0,1
+Data Scientist,Computer Hardware & Software,93.5, MD,0,0,0,1
+Data Scientist,Computer Hardware & Software,79.5, GA,1,0,0,1
+Data Scientist,Computer Hardware & Software,82, VA,1,0,0,0
+Data Scientist,Computer Hardware & Software,82, VA,1,0,0,0
+Data Scientist,Computer Hardware & Software,97.5, WA,0,0,0,0
+Data Scientist,Computer Hardware & Software,85.5, CA,1,0,0,1
+Data Scientist,Computer Hardware & Software,98.5, CA,1,0,1,0
+Data Scientist,Computer Hardware & Software,107, CA,1,0,0,1
+Data Engineer,Computer Hardware & Software,108, CA,1,0,0,0
+Data Engineer,Computer Hardware & Software,112.5, NC,1,0,1,0
+Data Engineer,Computer Hardware & Software,112.5, NC,1,0,1,0
+Data Engineer,Computer Hardware & Software,100, IL,0,0,0,1
+Data Scientist,Computer Hardware & Software,107, CA,1,0,1,0
+Data Scientist,Computer Hardware & Software,107, CA,1,0,1,0
+Data Analyst,Computer Hardware & Software,121.5, CA,0,0,0,0
+Machine Learning Engineer,Computer Hardware & Software,125, NY,1,0,1,1
+Machine Learning Engineer,Computer Hardware & Software,125, NY,1,0,1,1
+Data Scientist,Computer Hardware & Software,122, FL,1,0,1,0
+Data Scientist,Computer Hardware & Software,122, FL,1,0,1,0
+Data Engineer,Computer Hardware & Software,139, CA,1,0,1,1
+Data Engineer,Computer Hardware & Software,139, CA,1,0,1,1
+Data Scientist,Computer Hardware & Software,128, WA,0,0,1,0
+Data Analyst,Computer Hardware & Software,138.5, CA,1,0,0,0
+Data Analyst,Computer Hardware & Software,138.5, CA,1,0,0,0
+Data Scientist,Consulting,237.5, DC,1,0,0,1
+Data Analyst,Consulting,52.5, CA,1,0,0,0
+Data Scientist,Consulting,72.5, TX,1,0,1,1
+Data Analyst,Consulting,76, MN,1,0,0,1
+Data Engineer,Consulting,87, VA,1,0,1,1
+Data Scientist,Consulting,81, IL,1,0,1,1
+Data Scientist,Consulting,80.5, NY,1,0,1,0
+Data Engineer,Consulting,95, MN,0,0,1,0
+Data Scientist,Consulting,106.5, IN,1,0,1,0
+Data Engineer,Consulting,95.5, IL,1,0,0,0
+Data Engineer,Consulting,93, TX,1,0,1,0
+Data Scientist,Consulting,94, MA,1,0,1,0
+Data Scientist,Consulting,97, NY,1,0,0,1
+Data Scientist,Consulting,96.5, DC,1,0,0,0
+Data Scientist,Consulting,107.5, MA,0,0,0,1
+Data Scientist,Consulting,107.5, MA,0,0,0,1
+Data Scientist,Consulting,115, NY,1,0,1,0
+Data Scientist,Consulting,115, NY,1,0,1,0
+Data Scientist,Consulting,114, CA,1,0,1,1
+Data Scientist,Consulting,114, CA,1,0,1,1
+Data Engineer,Consulting,122.5, IN,1,0,1,0
+Data Engineer,Consulting,122.5, IN,1,0,1,0
+Data Engineer,Consulting,122.5, IN,1,0,1,0
+Data Analyst,Consulting,123.5, CA,0,0,0,1
+Data Analyst,Consulting,123.5, CA,0,0,0,1
+Data Analyst,Consulting,114.5, NY,1,0,0,1
+Data Scientist,Consulting,128.5, IL,1,0,1,1
+Data Scientist,Consulting,128.5, IL,1,0,1,1
+Data Scientist,Consulting,128.5, IL,1,0,1,1
+Data Engineer,Consumer Product Rental,65, AL,1,0,1,1
+Data Scientist,Consumer Product Rental,97.5, NY,1,0,0,1
+Data Scientist,Consumer Product Rental,97.5, NY,1,0,0,1
+Data Analyst,Consumer Products Manufacturing,47, UT,1,0,0,1
+Data Scientist,Consumer Products Manufacturing,74, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,74, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,81.5, CA,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,82.5, NJ,0,0,1,0
+Data Scientist,Consumer Products Manufacturing,99.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,80.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,99.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,80.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,99.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,103.5, KY,0,0,0,0
+Data Scientist,Consumer Products Manufacturing,103.5, KY,0,0,0,0
+Data Scientist,Consumer Products Manufacturing,103.5, KY,0,0,0,0
+Data Scientist,Consumer Products Manufacturing,103.5, KY,0,0,0,0
+Data Scientist,Consumer Products Manufacturing,103, CA,1,0,1,0
+Data Scientist,Consumer Products Manufacturing,117.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,117.5, NC,0,0,0,1
+Data Scientist,Consumer Products Manufacturing,117.5, NC,0,0,0,1
+Data Analyst,Consumer Products Manufacturing,109.5, NJ,1,0,0,1
+Data Analyst,Consumer Products Manufacturing,109.5, NJ,1,0,0,1
+Data Scientist,"Department, Clothing, & Shoe Stores",139, TX,0,0,0,0
+Data Scientist,"Department, Clothing, & Shoe Stores",139, TX,0,0,0,0
+Data Analyst,"Department, Clothing, & Shoe Stores",51.5, CA,0,0,0,1
+Data Analyst,"Department, Clothing, & Shoe Stores",51.5, CA,0,0,0,1
+Data Analyst,"Department, Clothing, & Shoe Stores",87.5, NY,1,0,0,1
+Data Analyst,"Department, Clothing, & Shoe Stores",87.5, NY,1,0,0,1
+Data Scientist,Education Training Services,75.5, NY,1,0,1,0
+Data Scientist,Education Training Services,75.5, NY,1,0,1,0
+Data Scientist,Education Training Services,87.5, TX,1,0,0,0
+Data Analyst,Energy,61, MO,0,0,0,1
+Data Analyst,Energy,61, MO,0,0,0,1
+Data Scientist,Energy,67, WA,0,0,0,0
+Data Scientist,Energy,67, WA,1,0,0,0
+Data Scientist,Energy,67, WA,0,0,0,0
+Data Scientist,Energy,76.5, WA,1,0,0,0
+Data Scientist,Energy,76.5, WA,1,0,0,0
+Data Scientist,Energy,76.5, WA,1,0,0,0
+Data Scientist,Energy,76.5, WA,1,0,0,0
+Data Scientist,Energy,80.5, WA,0,0,0,0
+Data Scientist,Energy,80.5, WA,0,0,0,0
+Data Scientist,Energy,98.5, WA,0,0,0,0
+Data Scientist,Energy,119, WA,0,0,0,0
+Data Scientist,Energy,119, WA,0,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,132.5, CA,0,0,0,1
+Data Scientist,Enterprise Software & Network Solutions,142, VA,1,0,1,0
+Data Scientist,Enterprise Software & Network Solutions,143, VA,1,0,1,0
+Data Scientist,Enterprise Software & Network Solutions,143, VA,1,0,1,0
+Data Scientist,Enterprise Software & Network Solutions,142.5, CA,0,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,142.5, CA,0,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,142.5, CA,0,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,142.5, CA,0,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,147, NY,1,0,0,1
+Data Scientist,Enterprise Software & Network Solutions,147, VA,1,0,1,0
+Data Scientist,Enterprise Software & Network Solutions,153.5, CA,1,0,1,1
+Data Scientist,Enterprise Software & Network Solutions,153.5, CA,1,0,1,1
+Data Scientist,Enterprise Software & Network Solutions,154.5, CA,1,0,0,1
+Data Scientist,Enterprise Software & Network Solutions,154.5, CA,1,0,0,1
+Data Scientist,Enterprise Software & Network Solutions,165, NY,1,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,194, CA,0,0,1,1
+Data Scientist,Enterprise Software & Network Solutions,194, CA,0,0,1,1
+Data Analyst,Enterprise Software & Network Solutions,29.5, CO,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,37.5, FL,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,37.5, FL,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,48, LA,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,55, AZ,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,59, NJ,0,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,69, CA,1,0,0,1
+Data Analyst,Enterprise Software & Network Solutions,66.5, IN,1,0,0,0
+Data Analyst,Enterprise Software & Network Solutions,66.5, IL,1,0,0,0
+Data Analyst,Enterprise Software & Network Solutions,66.5, IL,1,0,0,0
+Data Engineer,Enterprise Software & Network Solutions,90.5, IN,1,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,86.5, NY,0,0,1,1
+Data Scientist,Enterprise Software & Network Solutions,85.5, FL,1,0,0,1
+Data Engineer,Enterprise Software & Network Solutions,97, VA,1,0,1,0
+Data Analyst,Enterprise Software & Network Solutions,94, VA,1,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,137.5, IL,1,0,1,1
+Data Engineer,Enterprise Software & Network Solutions,103, CA,0,0,1,0
+Data Engineer,Enterprise Software & Network Solutions,109, VA,1,0,0,0
+Data Engineer,Enterprise Software & Network Solutions,109, VA,1,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,100.5, MA,1,0,0,1
+Data Scientist,Enterprise Software & Network Solutions,150.5, CA,1,0,1,1
+Data Scientist,Enterprise Software & Network Solutions,120.5, CA,1,0,0,0
+Data Scientist,Enterprise Software & Network Solutions,123.5, NY,1,0,1,0
+Data Scientist,Farm Support Services,80.5, IN,0,0,0,0
+Data Scientist,Federal Agencies,69.5, MA,1,0,0,1
+Data Scientist,Federal Agencies,69.5, MA,1,0,0,1
+Data Scientist,Federal Agencies,77.5, VA,0,0,0,0
+Data Scientist,Federal Agencies,77.5, VA,0,0,0,0
+Data Scientist,Federal Agencies,77.5, VA,0,0,0,0
+Data Scientist,Federal Agencies,81.5, VA,1,0,0,0
+Data Scientist,Federal Agencies,93.5, OH,1,0,0,0
+Data Scientist,Federal Agencies,93.5, OH,1,0,0,0
+Data Scientist,Federal Agencies,97.5, VA,1,0,0,1
+Data Scientist,Federal Agencies,106.5, VA,1,0,0,1
+Data Scientist,Financial Analytics & Research,140, IL,1,0,0,1
+Data Scientist,Financial Analytics & Research,140, IL,1,0,0,1
+Data Scientist,Financial Analytics & Research,140, IL,1,0,0,1
+Data Scientist,Financial Analytics & Research,148, CA,1,0,0,0
+Data Scientist,Financial Analytics & Research,148, CA,1,0,0,0
+Data Scientist,Financial Analytics & Research,180, CA,1,0,0,1
+Data Scientist,Financial Analytics & Research,180, CA,1,0,0,1
+Data Scientist,Financial Analytics & Research,85, GA,1,0,0,0
+Data Scientist,Financial Transaction Processing,139.5, CA,0,0,0,0
+Data Scientist,Financial Transaction Processing,139.5, CA,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,52.5, IL,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,52.5, IL,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,52.5, IL,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,52.5, IL,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,54, WI,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,54, WI,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,54, WI,0,0,0,0
+Data Scientist,Food & Beverage Manufacturing,54, WI,0,0,0,0
+Data Analyst,Gambling,48.5, CA,0,0,0,1
+Data Analyst,Gambling,48.5, CA,0,0,0,1
+Data Analyst,Gambling,48.5, CA,0,0,0,1
+Data Analyst,Gambling,48.5, CA,0,0,0,1
+Data Engineer,Gas Stations,98, TN,1,0,0,0
+Data Engineer,Gas Stations,98, TN,1,0,0,0
+Data Engineer,Gas Stations,98, TN,1,0,0,0
+Data Engineer,Gas Stations,98, TN,1,0,0,0
+Data Analyst,Health Care Products Manufacturing,73, NY,0,0,1,1
+Data Scientist,Health Care Services & Hospitals,221.5, CA,1,0,0,1
+Data Analyst,Health Care Services & Hospitals,50, DC,0,0,0,1
+Data Scientist,Health Care Services & Hospitals,61, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,61.5, NE,0,0,0,1
+Data Analyst,Health Care Services & Hospitals,64, CA,0,0,0,0
+Data Analyst,Health Care Services & Hospitals,64, CA,0,0,0,0
+Data Analyst,Health Care Services & Hospitals,64, CA,0,0,0,0
+Data Analyst,Health Care Services & Hospitals,64, CA,0,0,0,0
+Data Analyst,Health Care Services & Hospitals,66, NY,0,0,0,1
+Data Analyst,Health Care Services & Hospitals,66, NY,0,0,0,1
+Data Analyst,Health Care Services & Hospitals,69.5, PA,0,0,0,1
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,84.5, NY,0,0,0,0
+Data Engineer,Health Care Services & Hospitals,81, VA,0,0,0,1
+Data Scientist,Health Care Services & Hospitals,87.5, MD,1,0,0,0
+Data Engineer,Health Care Services & Hospitals,94.5, CA,1,0,1,1
+Data Engineer,Health Care Services & Hospitals,94.5, CA,1,0,1,1
+Data Engineer,Health Care Services & Hospitals,94.5, CA,1,0,1,1
+Data Scientist,Health Care Services & Hospitals,95, NY,1,0,1,0
+Data Scientist,Health Care Services & Hospitals,95, NY,1,0,1,0
+Data Engineer,Health Care Services & Hospitals,109, TN,0,0,1,1
+Data Engineer,Health Care Services & Hospitals,109, TN,0,0,1,1
+Data Analyst,Health Care Services & Hospitals,107.5, MD,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,107.5, MD,1,0,0,0
+Data Engineer,Health Care Services & Hospitals,100, AZ,0,0,0,0
+Data Engineer,Health Care Services & Hospitals,100, AZ,0,0,0,0
+Data Scientist,Health Care Services & Hospitals,119.5, CA,1,0,0,0
+Data Scientist,Health Care Services & Hospitals,124, CA,1,0,0,0
+Data Scientist,"Health, Beauty, & Fitness",139.5, CA,1,0,0,0
+Data Engineer,Industrial Manufacturing,77.5, IA,0,0,0,1
+Data Scientist,Industrial Manufacturing,81, IL,0,0,0,0
+Data Scientist,Industrial Manufacturing,81, IL,0,0,0,0
+Data Scientist,Industrial Manufacturing,107.5,CA,0,0,0,1
+Data Scientist,Insurance Agencies & Brokerages,139, NY,1,0,0,1
+Data Scientist,Insurance Agencies & Brokerages,94.5, OH,1,0,0,0
+Data Scientist,Insurance Agencies & Brokerages,96, TX,0,0,0,1
+Data Scientist,Insurance Agencies & Brokerages,96, TX,0,0,0,1
+Data Scientist,Insurance Agencies & Brokerages,115, NY,1,0,0,1
+Data Scientist,Insurance Agencies & Brokerages,115, NY,1,0,0,1
+Data Analyst,Insurance Carriers,129.5, MA,1,0,1,1
+Data Analyst,Insurance Carriers,129.5, MA,1,0,1,1
+Data Scientist,Insurance Carriers,147, NY,1,0,1,0
+Data Scientist,Insurance Carriers,147, NY,1,0,1,0
+Data Scientist,Insurance Carriers,146.5, MA,1,0,0,1
+Data Scientist,Insurance Carriers,146.5, MA,1,0,0,1
+Data Scientist,Insurance Carriers,164, MA,1,0,1,0
+Data Scientist,Insurance Carriers,164, MA,1,0,1,0
+Data Scientist,Insurance Carriers,194.5, IL,1,0,0,0
+Data Scientist,Insurance Carriers,194.5, IL,1,0,0,0
+Data Scientist,Insurance Carriers,254, IL,1,0,0,0
+Data Scientist,Insurance Carriers,254, IL,1,0,0,0
+Data Scientist,Insurance Carriers,254, IL,1,0,0,0
+Data Analyst,Insurance Carriers,45.5, OH,0,0,0,0
+Data Analyst,Insurance Carriers,45.5, OH,0,0,0,0
+Data Analyst,Insurance Carriers,45.5, OH,0,0,0,0
+Data Analyst,Insurance Carriers,47.5, MA,0,0,0,1
+Data Analyst,Insurance Carriers,63, MA,0,0,0,1
+Data Analyst,Insurance Carriers,63, MA,0,0,0,1
+Data Analyst,Insurance Carriers,51.5, IN,1,0,0,1
+Data Scientist,Insurance Carriers,68.5, MA,0,0,0,1
+Data Analyst,Insurance Carriers,51.5, IN,1,0,0,1
+Data Scientist,Insurance Carriers,68.5, MA,0,0,0,1
+Data Analyst,Insurance Carriers,54, MA,0,0,0,0
+Data Scientist,Insurance Carriers,53, MA,0,0,0,0
+Data Analyst,Insurance Carriers,54, MA,0,0,0,0
+Data Analyst,Insurance Carriers,56.5, WI,0,0,0,1
+Data Engineer,Insurance Carriers,58.5, IL,1,0,0,1
+Data Analyst,Insurance Carriers,66.5, PA,0,0,0,1
+Data Analyst,Insurance Carriers,66.5, PA,0,0,0,1
+Data Engineer,Insurance Carriers,83, CA,0,0,0,0
+Data Analyst,Insurance Carriers,81, MA,1,0,0,0
+Data Engineer,Insurance Carriers,90, MA,0,0,0,1
+Data Engineer,Insurance Carriers,90, MA,0,0,0,1
+Data Engineer,Insurance Carriers,90, MA,0,0,0,1
+Data Scientist,Insurance Carriers,87.5, CO,1,0,0,1
+Data Engineer,Insurance Carriers,92, MA,1,0,0,1
+Data Engineer,Insurance Carriers,92, MA,1,0,0,1
+Data Scientist,Insurance Carriers,91.5, MA,0,0,1,1
+Data Scientist,Insurance Carriers,101, MA,0,0,0,0
+Data Scientist,Insurance Carriers,101, MA,0,0,0,0
+Data Scientist,Insurance Carriers,98.5, NJ,0,0,0,1
+Data Scientist,Insurance Carriers,98.5, NJ,0,0,0,1
+Data Engineer,Insurance Carriers,106, NY,1,0,0,1
+Data Analyst,Insurance Carriers,100, RI,0,0,1,0
+Data Engineer,Insurance Carriers,99, CO,1,0,1,0
+Data Engineer,Insurance Carriers,99, CO,1,0,1,0
+Data Engineer,Insurance Carriers,99, CO,1,0,1,0
+Data Scientist,Insurance Carriers,100.5, WI,0,0,0,0
+Data Engineer,Insurance Carriers,110.5, NY,1,0,0,1
+Data Engineer,Insurance Carriers,106.5, TN,0,0,0,1
+Data Scientist,Insurance Carriers,102, NC,1,0,1,1
+Data Scientist,Insurance Carriers,107, MD,1,0,0,1
+Data Scientist,Insurance Carriers,107, MD,1,0,0,1
+Data Scientist,Insurance Carriers,110.5, OH,0,0,0,1
+Data Scientist,Insurance Carriers,110.5, OH,0,0,0,1
+Data Scientist,Insurance Carriers,108, CA,1,0,0,0
+Data Engineer,Insurance Carriers,115.5, IA,1,0,0,1
+Data Engineer,Insurance Carriers,115.5, IA,1,0,0,1
+Data Scientist,Insurance Carriers,114.5, MA,1,0,0,0
+Data Scientist,Insurance Carriers,114.5, MA,1,0,0,0
+Data Scientist,Insurance Carriers,124.5, NC,1,0,0,1
+Data Scientist,Insurance Carriers,124.5, NC,1,0,0,1
+Data Engineer,Internet,136.5, CA,0,0,0,0
+Data Engineer,Internet,136.5, CA,0,0,0,0
+Data Scientist,Internet,127, CA,1,0,0,0
+Data Scientist,Internet,140, NY,1,0,0,0
+Data Scientist,Internet,140, NY,1,0,0,0
+Data Engineer,Internet,162, CA,1,0,1,1
+Data Engineer,Internet,162, CA,1,0,1,1
+Machine Learning Engineer,Internet,181, CA,1,0,0,0
+Machine Learning Engineer,Internet,181, CA,1,0,0,0
+Machine Learning Engineer,Internet,181, CA,1,0,0,0
+Data Engineer,Internet,205, CA,1,0,1,0
+Data Engineer,Internet,205, CA,1,0,1,0
+Data Engineer,Internet,205, CA,1,0,1,0
+Data Analyst,Internet,47, NY,0,0,0,0
+Data Analyst,Internet,47, NY,0,0,0,0
+Data Scientist,Internet,63.5, CA,1,0,0,0
+Data Engineer,Internet,78, NJ,1,0,0,0
+Data Analyst,Internet,83, NY,1,0,0,1
+Data Engineer,Internet,84.5, MA,1,0,0,0
+Data Engineer,Internet,84.5, MA,1,0,0,0
+Data Engineer,Internet,88, TN,1,0,1,1
+Data Engineer,Internet,87.5, CA,1,0,1,1
+Data Engineer,Internet,100, IL,1,0,1,0
+Data Engineer,Internet,102.5, TN,1,0,1,0
+Data Engineer,Internet,102.5, TN,1,0,1,0
+Data Scientist,Internet,105.5, WA,1,0,0,0
+Data Engineer,Internet,122, DC,1,0,1,0
+Data Scientist,Internet,116.5, CA,1,0,0,0
+Data Scientist,Internet,116.5, CA,1,0,0,0
+Data Scientist,Investment Banking & Asset Management,172, NY,0,0,0,0
+Data Analyst,Investment Banking & Asset Management,63.5, ID,0,0,0,1
+Data Scientist,Investment Banking & Asset Management,120, WI,1,0,0,0
+Data Scientist,Investment Banking & Asset Management,120, WI,1,0,0,0
+Data Scientist,Investment Banking & Asset Management,116.5, NJ,0,0,0,1
+Data Scientist,IT Services,133, MD,1,0,0,0
+Data Scientist,IT Services,143.5, MO,1,0,0,0
+Data Scientist,IT Services,143.5, MO,1,0,0,0
+Data Scientist,IT Services,145.5, NY,1,0,0,1
+Data Scientist,IT Services,153, CA,1,0,1,0
+Data Scientist,IT Services,184.5, WA,1,0,0,1
+Data Scientist,IT Services,184.5, WA,1,0,0,1
+Data Analyst,IT Services,48, AL,0,0,0,1
+Data Engineer,IT Services,60.5, AZ,1,0,1,0
+Data Analyst,IT Services,71, VA,0,0,0,1
+Data Analyst,IT Services,71, VA,0,0,0,1
+Data Scientist,IT Services,69.5, AZ,1,0,0,1
+Data Analyst,IT Services,72.5, MD,0,0,0,1
+Data Engineer,IT Services,75.5, TX,0,0,0,0
+Data Analyst,IT Services,62.5, CT,0,0,0,1
+Data Analyst,IT Services,62.5, CT,0,0,0,1
+Data Analyst,IT Services,62.5, CT,0,0,0,1
+Data Scientist,IT Services,85.5, MD,0,0,0,0
+Data Analyst,IT Services,77.5, NJ,1,0,0,1
+Data Analyst,IT Services,77.5, NJ,1,0,0,1
+Data Analyst,IT Services,77, DC,0,0,0,1
+Data Engineer,IT Services,80, TX,1,0,0,1
+Data Engineer,IT Services,80, TX,1,0,0,1
+Data Engineer,IT Services,85.5, NC,1,0,0,1
+Data Engineer,IT Services,85.5, NC,1,0,0,1
+Data Engineer,IT Services,87, DC,0,0,0,0
+Data Scientist,IT Services,89.5, VA,1,0,0,0
+Data Engineer,IT Services,85, VA,1,0,1,0
+Data Engineer,IT Services,85, VA,1,0,1,0
+Data Analyst,IT Services,88, CA,1,0,1,1
+Data Scientist,IT Services,86, MD,1,0,0,1
+Data Scientist,IT Services,86, MD,1,0,0,1
+Data Scientist,IT Services,89, WA,0,0,0,0
+Data Scientist,IT Services,88.5, IN,0,0,1,0
+Data Engineer,IT Services,95.5, NC,1,0,0,0
+Data Scientist,IT Services,90, CA,1,0,0,1
+Data Scientist,IT Services,99, VA,1,0,0,1
+Data Engineer,IT Services,109, MD,0,0,1,0
+Data Engineer,IT Services,109, MD,0,0,1,0
+Data Engineer,IT Services,109, MD,0,0,1,0
+Data Analyst,IT Services,106, CA,1,0,0,1
+Data Scientist,IT Services,106.5, MD,0,0,0,0
+Data Scientist,IT Services,109, CA,1,0,0,0
+Data Scientist,IT Services,112, VA,1,0,0,0
+Data Scientist,IT Services,112, VA,1,0,0,0
+Data Scientist,IT Services,113.5, CA,1,0,0,1
+Data Scientist,IT Services,113.5, CA,1,0,0,0
+Data Scientist,K-12 Education,169, CA,0,0,1,1
+Data Analyst,K-12 Education,59.5, NY,1,0,0,1
+Data Scientist,K-12 Education,96, MO,0,0,0,1
+Machine Learning Engineer,K-12 Education,111, CA,1,0,1,1
+Data Analyst,Lending,43, IA,0,0,0,1
+Data Analyst,Lending,43, IA,0,0,0,1
+Data Analyst,Lending,70.5, MO,0,0,0,1
+Data Analyst,Lending,70.5, MO,0,0,0,1
+Data Scientist,Lending,87, NY,0,0,0,1
+Data Engineer,Lending,101, CA,1,0,1,1
+Data Scientist,Lending,124.5, AZ,1,0,0,1
+Data Scientist,Lending,124.5, AZ,1,0,0,1
+Data Scientist,Logistics & Supply Chain,84, KY,1,0,0,1
+Data Scientist,Logistics & Supply Chain,84, KY,1,0,0,1
+Data Scientist,Logistics & Supply Chain,112.5, IL,1,0,1,1
+Data Scientist,Logistics & Supply Chain,112.5, IL,1,0,1,1
+Data Scientist,Metals Brokers,107, OH,1,0,1,0
+Data Scientist,Metals Brokers,107, OH,1,0,1,0
+Data Scientist,Mining,98, PA,1,0,0,0
+Data Engineer,Motion Picture Production & Distribution,146, NJ,0,0,0,1
+Data Scientist,Other Retail Stores,163.5, CA,1,0,0,0
+Data Scientist,Real Estate,130, IL,1,0,0,1
+Data Scientist,Real Estate,130, IL,1,0,0,1
+Data Scientist,Real Estate,95, TX,1,0,1,1
+Data Scientist,Real Estate,95, TX,1,0,1,1
+Data Analyst,Real Estate,103.5, CA,0,0,0,1
+Data Scientist,Real Estate,96, MI,1,0,0,0
+Data Scientist,Real Estate,96, MI,1,0,0,0
+Data Engineer,Real Estate,92.5, IL,1,0,0,1
+Data Analyst,Religious Organizations,50, UT,0,0,1,1
+Data Analyst,Religious Organizations,50, UT,0,0,1,1
+Data Analyst,Religious Organizations,72, UT,0,0,0,0
+Data Engineer,Religious Organizations,87, UT,0,0,1,1
+Data Engineer,Religious Organizations,107, UT,0,0,0,1
+Data Engineer,Religious Organizations,107, UT,0,0,0,1
+Data Scientist,Research & Development,167.5, MA,0,0,0,0
+Data Scientist,Research & Development,15.5, NY,0,0,0,1
+Data Scientist,Research & Development,60, TX,0,0,0,0
+Data Analyst,Research & Development,62, MD,0,0,0,1
+Data Engineer,Research & Development,64.5, NY,1,0,1,1
+Data Scientist,Research & Development,65.5, NC,0,0,0,0
+Data Engineer,Research & Development,64.5, NY,1,0,1,1
+Data Scientist,Research & Development,65.5, NC,0,0,0,0
+Data Engineer,Research & Development,65.5, DC,0,0,1,1
+Data Engineer,Research & Development,65.5, DC,0,0,1,1
+Data Scientist,Research & Development,76, MO,0,0,0,1
+Data Analyst,Research & Development,70.5, VA,0,0,0,0
+Data Scientist,Research & Development,71.5, TX,1,0,1,1
+Data Scientist,Research & Development,71.5, TX,1,0,1,1
+Data Scientist,Research & Development,85, VA,0,0,0,0
+Data Scientist,Research & Development,85, VA,0,0,0,0
+Data Engineer,Research & Development,92, VA,0,0,0,0
+Data Scientist,Research & Development,121, MA,0,0,1,1
+Data Scientist,Research & Development,121, NY,1,0,0,0
+Data Analyst,Security Services,61, FL,1,0,0,1
+Data Analyst,Security Services,61, FL,1,0,0,1
+Data Scientist,Security Services,85.5, NY,1,0,0,0
+Data Scientist,Security Services,85, FL,1,0,0,1
+Data Scientist,Security Services,85, FL,1,0,0,1
+Data Engineer,Security Services,138.5, TX,1,0,0,0
+Data Engineer,Security Services,138.5, TX,1,0,0,0
+Data Analyst,Social Assistance,44.5, WA,0,0,1,1
+Data Analyst,Social Assistance,47.5, CA,0,0,0,1
+Data Scientist,Social Assistance,52.5, NE,0,0,0,1
+Data Scientist,Sporting Goods Stores,85, PA,1,0,0,0
+Data Scientist,Sporting Goods Stores,85, PA,1,0,0,0
+Data Scientist,Staffing & Outsourcing,155, PA,1,0,1,1
+Data Analyst,Staffing & Outsourcing,40.5, MO,1,0,1,1
+Data Analyst,Staffing & Outsourcing,74, PA,1,0,1,0
+Data Engineer,Staffing & Outsourcing,91.5, PA,1,0,1,1
+Data Engineer,Staffing & Outsourcing,94.5, CA,1,0,1,0
+Data Engineer,Staffing & Outsourcing,94.5, CA,1,0,1,0
+Data Scientist,Staffing & Outsourcing,127.5, PA,0,0,0,1
+Data Scientist,Staffing & Outsourcing,127.5, PA,0,0,0,1
+Data Scientist,Staffing & Outsourcing,128.5, PA,1,0,1,0
+Data Scientist,Staffing & Outsourcing,128.5, PA,1,0,1,0
+Machine Learning Engineer,Stock Exchanges,87, KS,1,0,0,1
+Machine Learning Engineer,Stock Exchanges,87, KS,1,0,0,1
+Machine Learning Engineer,Stock Exchanges,87, KS,1,0,0,1
+Data Analyst,Telecommunications Manufacturing,44, FL,0,0,0,0
+Data Analyst,Telecommunications Manufacturing,44, FL,0,0,0,0
+Data Scientist,Telecommunications Services,142, CA,1,0,1,1
+Data Scientist,Telecommunications Services,142, CA,1,0,1,1
+Data Scientist,Telecommunications Services,121, CA,1,0,0,1
+Data Scientist,Telecommunications Services,121, CA,1,0,0,1
+Data Scientist,Transportation Equipment Manufacturing,104.5, MI,1,0,1,1
+Data Engineer,Transportation Management,107.5, IL,0,0,0,0
+Data Engineer,Transportation Management,107.5, IL,0,0,0,0
+Data Engineer,Transportation Management,107.5, IL,0,0,0,0
+Data Analyst,Travel Agencies,53.5, NY,1,0,0,1
+Data Analyst,Travel Agencies,53.5, NY,1,0,0,1
+Data Analyst,Travel Agencies,65, NY,0,0,0,1
+Data Analyst,Travel Agencies,65, NY,0,0,0,1
+Data Analyst,Travel Agencies,65, NY,0,0,0,1
+Data Scientist,Travel Agencies,74.5, NY,1,0,0,0
+Data Scientist,Travel Agencies,74.5, NY,1,0,0,0
+Data Scientist,Travel Agencies,105, CO,1,0,0,0
+Data Analyst,Trucking,79, OH,0,0,0,0
+Data Scientist,TV Broadcast & Cable Networks,107.5, OH,1,0,0,0
+Data Scientist,TV Broadcast & Cable Networks,128, NY,1,0,0,0
+Data Analyst,Video Games,92.5, CA,1,1,0,1
+Data Engineer,Video Games,113, CA,1,0,1,1
+Data Engineer,Video Games,113, CA,1,0,1,1
+Data Scientist,Wholesale,179.5, IL,1,0,0,1
+Data Analyst,Wholesale,53.5, WA,0,0,0,1
+Data Scientist,Wholesale,76.5, NY,1,0,0,1
