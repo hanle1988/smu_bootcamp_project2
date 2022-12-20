@@ -6,6 +6,7 @@ CREATE TABLE "company" (
     "id" serial   NOT NULL,
     "company" varchar(100)   NOT NULL,
     "company_link" varchar(500)   NOT NULL,
+    "company_rating" int   NOT NULL,
     "last_updated" timestamp   NOT NULL,
     CONSTRAINT "pk_company" PRIMARY KEY (
         "id"
