@@ -1,0 +1,31 @@
+company
+-
+id serial PK FK >- job.company
+company varchar(100)
+company_link varchar(500)
+company_rating int
+last_updated timestamp
+
+job
+-
+id serial PK
+job_title varchar(100)
+job_link varchar(500)
+company varchar(500)
+location varchar(500)
+salary varchar(100)
+status booleans
+state varchar(10)
+remote booleans
+last_updated timestamp
+
+status
+-
+id serial PK FK >- job.status
+status booleans
+last_updated timestamp
+
+state
+-
+id serial PK FK >- job.state
+state varchar(100)
