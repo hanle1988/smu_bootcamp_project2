@@ -1,0 +1,48 @@
+CREATE TABLE "company" (
+    "id" serial   NOT NULL,
+    "company" varchar(100)   NOT NULL,
+    "company_link" varchar(500)   NULL,
+    "company_rating" float   NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
+    CONSTRAINT "pk_company" PRIMARY KEY (
+        "id"
+     )
+);
+CREATE TABLE "job" (
+    "id" serial   NOT NULL,
+    "job_title" varchar(100)   NOT NULL,
+    "job_link" varchar(500)   NOT NULL,
+    "company_id" int   NOT NULL,
+    "location" varchar(500)   NOT NULL,
+    "salary" varchar(100)   NOT NULL,
+    "status_id" int   NOT NULL,
+    "state_id" int   NOT NULL,
+    "is_remote" bool   NOT NULL,
+	"is_ad" bool   NOT NULL,
+    "last_updated" timestamp default localtimestamp  NOT NULL,
+    CONSTRAINT "pk_job" PRIMARY KEY (
+        "id"
+     )
+);
+CREATE TABLE "status" (
+    "id" serial   NOT NULL,
+    "status" varchar(20)   NOT NULL,
+    "last_updated" timestamp default localtimestamp  NOT NULL,
+    CONSTRAINT "pk_status" PRIMARY KEY (
+        "id"
+     )
+);
+CREATE TABLE "state" (
+    "id" serial   NOT NULL,
+    "state" varchar(10)   NOT NULL,
+	"last_updated" timestamp default localtimestamp  NOT NULL,
+    CONSTRAINT "pk_state" PRIMARY KEY (
+        "id"
+     )
+);
+ALTER TABLE "job" ADD CONSTRAINT "fk_job_company" FOREIGN KEY("company_id")
+REFERENCES "company" ("id");
+ALTER TABLE "job" ADD CONSTRAINT "fk_job_status" FOREIGN KEY("status_id")
+REFERENCES "status" ("id");
+ALTER TABLE "job" ADD CONSTRAINT "fk_job_state" FOREIGN KEY("state_id")
+REFERENCES "state" ("id");
