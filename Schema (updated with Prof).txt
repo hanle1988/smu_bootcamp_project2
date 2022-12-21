@@ -11,14 +11,14 @@ CREATE TABLE "company" (
 CREATE TABLE "job" (
     "id" serial   NOT NULL,
     "job_title" varchar(100)   NOT NULL,
-    "job_link" varchar(500)   NOT NULL,
-    "company_id" int   NOT NULL,
-    "location" varchar(500)   NOT NULL,
-    "salary" varchar(100)   NOT NULL,
-    "status_id" int   NOT NULL,
-    "state_id" int   NOT NULL,
-    "is_remote" bool   NOT NULL,
-	"is_ad" bool   NOT NULL,
+    "job_link" varchar(2000)   NOT NULL,
+    "company_id" int   NULL,
+    "location" varchar(2000)   NULL,
+    "salary" varchar(100)   NULL,
+    "status_id" int   NULL,
+    "state_id" int   NULL,
+    "is_remote" bool   NULL,
+	"is_ad" bool   NULL,
     "last_updated" timestamp default localtimestamp  NOT NULL,
     CONSTRAINT "pk_job" PRIMARY KEY (
         "id"
